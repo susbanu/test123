@@ -1,1 +1,2 @@
-Test3
+Test3 - 
+last changes by bug_fix branch
